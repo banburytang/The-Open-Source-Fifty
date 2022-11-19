@@ -11,6 +11,8 @@
 
 《开源 50 人》文章及视频会持续刊登于 CSDN 及《新程序员》，计划于 2023 年正式集结出版。当前 CSDN 写作班继续招募学生。参与写作本书。有稿费，无学费，刘韧老师毫无保留地分享他的新闻观和专业经验，更有《电脑报》创始人陈宗周不定期辅导。参加采访、整理录音和素材、写细节、写段落、写长文、编辑、传播实战，干中学。
 
+> 相关阅读：[CSDN刘韧写作班为中国千万开发者摇旗呐喊](https://mp.weixin.qq.com/s/9WActNjCCpm8rgrTI8SX9Q)
+
 ## 二、关于刘韧
 
 ![](https://img-blog.csdnimg.cn/c0a5e60b7a814b6097472bc52fbe5b24.jpeg)
@@ -25,10 +27,10 @@
 
 | 序号 | 姓名 | Title | 标签 | 文章 | 作者 |
 | :--: | :--: | :-- | :-- | :-- | :--: |
-| 1 | 尤雨溪 | Vue.js 作者	| 前端，中国人做开源框架，全球开源工具库 Star TOP1 | 尤雨溪Vue登榜GitHub之路看似不难 | 谷磊 |
-| 2 | 章文嵩 | LVS 创始人 | 中国开源技术代表 TOP1 | 章文嵩：开源为我打开一扇窗 | 李欣欣、谷磊 |
-| 3 | 吴峰光 | Linux 内核守护者 | 中国开发者 Linux 内核贡献 TOP1 | 吴峰光杀进 Linux 内核 | 李欣欣 |
-| 4 | 宫敏 | 凝思软件董事长 | 中国自由软件和 Linux 先行者，将其带回中国 | 宫敏把自由软件和 Linux 带回中国 | 谷磊 |
+| 1 | 尤雨溪 | Vue.js 作者	| 前端，中国人做开源框架，全球开源工具库 Star TOP1 | [尤雨溪Vue登榜GitHub之路看似不难](https://mp.weixin.qq.com/s/_GUVJK4jAOkv-k2tP8Go1A) | 谷磊 |
+| 2 | 章文嵩 | LVS 创始人 | 中国开源技术代表 TOP1 | [章文嵩：开源为我打开一扇窗](https://mp.weixin.qq.com/s/K9CvMRO4dzCsUQNUwfCWaA) | 李欣欣、谷磊 |
+| 3 | 吴峰光 | Linux 内核守护者 | 中国开发者 Linux 内核贡献 TOP1 | [吴峰光杀进 Linux 内核](https://mp.weixin.qq.com/s/alr_MXqxly0JPB7z8MO4hA) | 李欣欣 |
+| 4 | 宫敏 | 凝思软件董事长 | 中国自由软件和 Linux 先行者，将其带回中国 | [宫敏把自由软件和 Linux 带回中国](https://mp.weixin.qq.com/s/m9Sq7TggemrGOTMONW66xQ) | 谷磊 |
 | 5 | 陆首群 | 中国开源软件推进联盟名誉主席 | 中国开源生态的引领人、推动者 | 撰写中 | 李欣欣 |
 | 6	| 崔宝秋 | 小米集团副总裁 | 人工智能，小米开源引领人 | 已采访 | 谷磊 |
 | 7 | 贾扬清 | 阿里巴巴副总裁 | 人工智能，Caffe 作者，阿里开源委员会主席 | 已确认 | |
@@ -66,4 +68,4 @@
 
 > 注：扫码添加好友时，请备注姓名+《开源 50 人》
 
-![](https://img-blog.csdnimg.cn/3b20251d39b543cb8571c0c55bfa9dbd.png)
+<img src="https://img-blog.csdnimg.cn/3b20251d39b543cb8571c0c55bfa9dbd.png" width = "394" height = "460" alt="联系信息" align=center />
